@@ -1,0 +1,8 @@
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.csproj.AssemblyReference.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.AssemblyInfoInputs.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.AssemblyInfo.cs
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.csproj.CoreCompileInputs.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Api\obj\Debug\net8.0\ItemComparison.Api.sourcelink.json

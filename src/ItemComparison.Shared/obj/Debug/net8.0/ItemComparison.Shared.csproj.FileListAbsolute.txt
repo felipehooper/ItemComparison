@@ -1,0 +1,12 @@
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\bin\Debug\net8.0\ItemComparison.Shared.deps.json
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\bin\Debug\net8.0\ItemComparison.Shared.dll
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\bin\Debug\net8.0\ItemComparison.Shared.pdb
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.AssemblyInfoInputs.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.AssemblyInfo.cs
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.csproj.CoreCompileInputs.cache
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.sourcelink.json
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.dll
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\refint\ItemComparison.Shared.dll
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ItemComparison.Shared.pdb
+C:\Users\felip\repo\ItemComparison\src\ItemComparison.Shared\obj\Debug\net8.0\ref\ItemComparison.Shared.dll
