@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItemComparison.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7f184625ab927f4ce46367912016aecbdc382bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d6c2af7989d01f97a043d78130135bb5cb5385")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItemComparison.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItemComparison.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

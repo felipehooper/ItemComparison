@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ItemComparison.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ItemComparison.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d6c2af7989d01f97a043d78130135bb5cb5385")]
-[assembly: System.Reflection.AssemblyProductAttribute("ItemComparison.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ItemComparison.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("ItemComparison.Shared")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ItemComparison.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

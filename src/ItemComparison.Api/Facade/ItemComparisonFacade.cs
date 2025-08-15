@@ -1,3 +1,5 @@
+namespace ItemComparison.Api.Facade;
+
 using ItemComparison.Application.Commands;
 using ItemComparison.Application.Dtos;
 using ItemComparison.Application.Queries;
