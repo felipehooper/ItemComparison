@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItemComparison.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f833db49c0c1aadb9c6d734a77ce75f1ebcf5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2669f249171c6947ff50ad8d353a249a23a5c762")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItemComparison.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItemComparison.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

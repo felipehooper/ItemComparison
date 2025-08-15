@@ -1,3 +1,5 @@
+namespace ItemComparison.Infrastructure.Configuration;
+
 using ItemComparison.Domain.Ports;
 using ItemComparison.Infrastructure.Persistence;
 using ItemComparison.Infrastructure.Persistence.Json;
